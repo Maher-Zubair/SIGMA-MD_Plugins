@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Maher-Zubair&label=Visitors%20count&color=10d9c3&style=plastic" alt="lyfe-plugin-list" /> </p>
 
 ***Subscribe My YOuTube Channel*** 
-<br> [![join](https://telegra.ph/file/eb6347e2764939fbbd35d.png)](https://www.youtube.com/@InnoxentTech)
+<br> [![join](https://telegra.ph/file/eb6347e2764939fbbd35d.png)](https://www.youtube.com/@InnoxentTech?sub_confirmation=1)
   <div align="center"  
 
 ---
