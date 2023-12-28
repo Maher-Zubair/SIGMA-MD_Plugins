@@ -1,4 +1,12 @@
-
+echo "# Miketshuma" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Miketshuma/Miketshuma.git
+git push -u origin maingit remote add origin https://github.com/Miketshuma/Miketshuma.git
+git branch -M main
+git push -u origin main
 <h1 align="center"> SIGMA-MD PLUGINS </h1>
 <div align="center">
 <br /> 
